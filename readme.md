@@ -34,6 +34,8 @@ Navigate to the cloned directory and install the required Python packages:
 
 ```bash
 cd TTI-MINER
+python3.11 -m venv miner
+source miner/bin/activate
 pip3 install -r requirements.txt
 ```
 
