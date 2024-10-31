@@ -104,10 +104,10 @@ TTI Miner requires specific command-line arguments to start:
 To run TTI Miner, use the following command:
 
 ```bash
-python miner.py --WALLET_ADDRESS "your_wallet_address" --MINER_POOL_IP "16.16.99.33" --MINER_POOL_PORT 4403 --ENDPOINT "https://pooltti.upow.network" --DEVICE 0
+python miner.py --WALLET_ADDRESS "your_wallet_address" --MINER_POOL_IP "37.120.174.219" --MINER_POOL_PORT 4403 --ENDPOINT "https://pooltti.upow.network" --DEVICE 0
 ```
 
-Replace `"116.16.99.33"`, `4403`, and `"your_wallet_address"` with the appropriate miner pool IP, port, and your wallet address.
+Replace `"37.120.174.219"`, `4403`, and `"your_wallet_address"` with the appropriate miner pool IP, port, and your wallet address.
 
 ## Contributing
 
